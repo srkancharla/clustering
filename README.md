@@ -1,3 +1,7 @@
-# My First Git Project
+# Clustering Algorithms
 
-This is a file to practice git commands.
+This project implements various clustering algorithms to demonstrate machine learning concepts and Git workflows.
+
+## Algorithms Implemented
+- K-Means
+- DBSCAN
